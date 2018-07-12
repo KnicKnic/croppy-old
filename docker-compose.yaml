@@ -1,0 +1,14 @@
+
+version: '2'
+
+services:
+  croppy_fast:
+    build: .
+    image: croppy:fast
+    ports:
+#      - "3334:80"
+      - "80:80"
+    restart: always
+    volumes:
+     - /mnt:/tmp
+    
