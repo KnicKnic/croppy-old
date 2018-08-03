@@ -1,6 +1,8 @@
 # Old Croppy
 Contains the files for the website croppy_old. The purpose of this website was to help people to take one long comic strip (think long narrow picture), and split it up into shorter sections that can be used on [line webtoon](https://www.webtoons.com/en/) and [tapas](https://tapas.io/)
 
+See newer version at [https://github.com/KnicKnic/croppy](https://github.com/KnicKnic/croppy)
+
 ## Info
 It used the following components
 * [ImageMagick](https://www.imagemagick.org/script/index.php) 
